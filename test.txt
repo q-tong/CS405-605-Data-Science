@@ -1,4 +1,0 @@
-assignment_3
-lecture
-project
-test.txt
